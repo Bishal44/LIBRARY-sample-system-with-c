@@ -12,9 +12,9 @@ void searchData(void);
 int checkBookNo(int);
 int findLastBookNo(void);
 void finish(void);
-//code to declare file pointer
+//code to declare file pointer used 
 FILE *fp,*fp1;
-//code to design structure
+//code to design structure(structure of book)
 struct book
 {
 	int bn;
