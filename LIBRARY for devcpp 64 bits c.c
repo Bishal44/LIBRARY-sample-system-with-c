@@ -77,7 +77,7 @@ main()
             }
 		else if(choice == 5)
 			{
-               	//code to call searchdata function
+               	//code to call search data function for search operation
 				searchData();
 				break;
           }
